@@ -4,7 +4,7 @@
 
 The **Stream**Payments™ Platform is a comprehensive financial technology ecosystem designed to empower businesses with a rich suite of financial tools and cutting-edge Solana blockchain-based payment processing solutions. This platform offers a versatile array of services and features engineered to elevate financial services, streamline payment processing, and enhance customer engagement.
 
-### Key Components:
+#### Key Components:
 
 1. **Governance DAO (StreamDAO):** The foundation of the ecosystem responsible for governance and decision-making to steer the strategic direction of Stream Protocol and **Stream**Payments™.
 
@@ -40,7 +40,8 @@ The **Stream**Payments™ Platform is a comprehensive financial technology ecosy
 
 The **Stream**Payments™ Platform is more than a collection of services; it's a harmoniously interconnected ecosystem where each component plays a vital role in providing businesses with a holistic fintech and blockchain solution. Whether you seek streamlined payments, powerful customer engagement tools, or robust financial services, StreamPayments™ is your gateway to optimizing financial operations and exploring the possibilities of Web3 payments.
 
-### Project Documentation (early version)
+
+#### Project Documentation (early version)
 
 [**Documentation**](https://app.gitbook.com/invite/9eBaoUspGpGsG968Qbyp/aB9DR79hOZHVtMTWC4Ei)
 
