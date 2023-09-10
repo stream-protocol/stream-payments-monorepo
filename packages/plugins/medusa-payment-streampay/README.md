@@ -72,13 +72,9 @@ We welcome contributions from the community. If you find a bug, have a feature r
 
 The Medusa Payment Stream**Pay™** Plugin is open-source and available under the [MIT License](link-to-license).
 
----
+* For more information and detailed documentation, visit our [StreamPayments Developer Portal](link-to-developer-portal).
 
-For more information and detailed documentation, visit our [StreamPayments Developer Portal](link-to-developer-portal).
+* For support and inquiries, please contact us at [contact@streamprotocol.org](mailto:support@streamprotocol.org).
 
-For support and inquiries, please contact us at [contact@streamprotocol.org](mailto:support@streamprotocol.org).
-```
-
-Please replace `link-to-documentation`, `link-to-configuration-guide`, `link-to-customization-docs`, `link-to-contribution-guide`, `link-to-license`, `link-to-developer-portal`, and `mailto:contact@streamprotocol.org`
 
 This README provides an overview of the Medusa Payment Stream**Pay™** Plugin, its installation, usage, configuration, customization, development, and contribution guidelines.
