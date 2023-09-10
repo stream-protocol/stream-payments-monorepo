@@ -32,6 +32,7 @@ A payment gateway is a crucial component for businesses looking to accept digita
 
 Overall, Stream Payment Gateway offers businesses the convenience of accepting digital currencies while providing customers with a secure and efficient payment experience. It's a valuable tool for expanding payment options and tapping into the global cryptocurrency market.
 
-# Merchant Portal
 
-# Documentation (early version)
+# Project Documentation (early version)
+
+[**Documentation**](https://app.gitbook.com/invite/9eBaoUspGpGsG968Qbyp/aB9DR79hOZHVtMTWC4Ei)
