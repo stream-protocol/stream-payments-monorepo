@@ -76,5 +76,4 @@ The Medusa Payment Stream**Pay™** Plugin is open-source and available under th
 
 * For support and inquiries, please contact us at [contact@streamprotocol.org](mailto:support@streamprotocol.org).
 
-
-This README provides an overview of the Medusa Payment Stream**Pay™** Plugin, its installation, usage, configuration, customization, development, and contribution guidelines.
+**Notice!** This README provides an overview of the Medusa Payment Stream**Pay™** Plugin, its installation, usage, configuration, customization, development, and contribution guidelines.
