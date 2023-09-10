@@ -77,8 +77,6 @@ We welcome contributions from the community. If you find a bug, have a feature r
 
 This project is open-source and available under the [MIT License](link-to-license).
 
----
-
-For more information and detailed documentation, visit our [StreamPay Developer Portal](link-to-developer-portal).
+For more information and detailed documentation, visit our [StreamPayments Developer Portal](link-to-developer-portal). (Not developed yet)
 
 For support and inquiries, please contact us at [support@streamprotocol.org](mailto:support@streamprotocol.org).
