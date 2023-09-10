@@ -2,7 +2,7 @@
 
 **Accept the most popular stablecoin and cryptocurrency globally with a complete solution.**
 
-A payment gateway is a crucial component for businesses looking to accept digital currencies as a form of payment. Stream Payment Gateway provides a complete solution that enables merchants to seamlessly integrate popular cryptocurrencies into their payment processing system. 
+A payment gateway is a crucial component for businesses looking to accept digital currencies as a form of payment. **Stream**Payments Platform provides a complete solution that enables merchants to seamlessly integrate popular cryptocurrencies into their payment processing system. 
 
 ### Overview of what a Stream Payment Gateway Proof of Concept offers:
 
@@ -10,11 +10,11 @@ A payment gateway is a crucial component for businesses looking to accept digita
 
 **Notice!**: Developing Cross-Chain Platform
 
-3. **Seamless Integration:** The Stream Payment Gateway can be easily integrated into the merchant's website, e-commerce platform, or mobile app. It provides APIs, plugins, and SDKs that simplify the integration process, ensuring a smooth user experience during the checkout process.
+3. **Seamless Integration:** The Stream Payment Gateway can be easily integrated into the merchant's website, e-commerce platform, or mobile app. It provides APIs, Strea**mPay** plugins, and SDKs that simplify the integration process, ensuring a smooth user experience during the checkout process.
 
 4. **Secure Transactions:** Security is a top priority. The Stream Payment Gateway employs advanced encryption techniques to secure transactions and protect sensitive customer data. This includes secure socket layer (SSL) encryption and compliance with industry standards for data protection.
 
-5. **Real-Time Conversion:** Cryptocurrency payment gateways often offer real-time currency conversion. This means that when a customer pays in cryptocurrency, the gateway automatically converts the transaction amount into the merchant's preferred fiat currency at the current exchange rate. This feature helps businesses avoid price volatility associated with cryptocurrencies.
+5. **Real-Time Conversion:** Stream Payment Gateway offers real-time currency conversion. This means that when a customer pays in cryptocurrency, the gateway automatically converts the transaction amount into the merchant's preferred fiat currency at the current exchange rate. This feature helps businesses avoid price volatility associated with cryptocurrencies.
 
 6. **Fast Transaction Processing:** Cryptocurrency transactions are known for their speed and efficiency. Stream Payment Gateway leverages the Solana blockchain's capabilities to process transactions quickly, providing near-instant payment confirmations.
 
@@ -22,11 +22,11 @@ A payment gateway is a crucial component for businesses looking to accept digita
 
 8. **User-Friendly Checkout Experience:** Stream Payment Gateway are designed to offer a user-friendly and intuitive checkout experience for customers. This includes providing clear payment instructions, QR codes for mobile wallets, and a seamless payment flow.
 
-9. **Customization:** Businesses can often customize the payment gateway's appearance to match their brand identity. This includes adding logos, choosing color schemes, and applying styling to create a consistent user experience.
+9. **Customization:** Businesses can often customize the Stream Payment Gateway's appearance to match their brand identity. This includes adding logos, choosing color schemes, and applying styling to create a consistent user experience.
 
-10. **Multi-Currency Support:** In addition to cryptocurrencies, some payment gateways also support stablecoins, which are digital assets pegged to the value of traditional fiat currencies like the US dollar (USD) or Euro (EUR). This feature adds an extra layer of stability for both merchants and customers.
+10. **Multi-Currency Support:** In addition to cryptocurrencies, Stream Payment Gateway also supports stablecoins, which are digital assets pegged to the value of traditional fiat currencies like the US dollar (USD) and Euro (EUR). This feature adds an extra layer of stability for both merchants and customers.
 
-11. **Customer Support:** Reliable customer support is crucial. Payment gateway providers typically offer customer support channels to assist with inquiries, technical issues, and dispute resolution.
+11. **Customer Support:** Reliable customer support is crucial. Stream Payment Gateway offers customer support channels to assist with inquiries, technical issues, and dispute resolution.
 
 12. **Compliance:** Stream Payment Gateway ensures compliance with local and international regulations. This includes Know Your Customer (KYC) and Anti-Money Laundering (AML) checks to verify the identity of customers.
 
