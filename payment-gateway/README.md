@@ -2,11 +2,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The Stream Payment Gateway is a versatile and secure payment processing solution that empowers businesses to accept digital currencies, including cryptocurrencies and stablecoins, with ease. Engineered with a focus on blockchain technology and Web3 capabilities, this payment gateway offers a comprehensive platform for handling digital payments, ensuring transparency, efficiency, and flexibility in payment processing.
+The Stream Payment Gateway is a versatile and secure payment processing solution that empowers businesses to accept digital currencies, including cryptocurrencies and stablecoins, with ease. Engineered with a focus on blockchain technology and Web3 capabilities, Stream Payment Gateway offers a comprehensive platform for handling digital payments, ensuring transparency, efficiency, and flexibility in payment processing.
 
-**Key Features:**
+### Key Features:
 
-- **Acceptance of Popular Cryptocurrencies:** Stream Payment Gateway enables businesses to accept a wide range of popular cryptocurrencies, including but not limited to Solana (SOL), Bitcoin (BTC), Ethereum (ETH), Bitcoin Cash (BCH), Litecoin (LTC), and Ripple (XRP).
+- **Acceptance of Popular Cryptocurrencies:** Stream Payment Gateway enables businesses to accept a wide range of popular cryptocurrencies, including but not limited to Solana (SOL), Bitcoin (BTC), Ethereum (ETH), Polygon (POL), Avalanche (AVAX), and Arbitrum (ARB).
+
+  Notice! Cross-Chain, Circle CCTP protocol features, and implementation of Stream Tokens (STRM).
+
+- **Multi-Currency Support:** In addition to cryptocurrencies, the Stream Payment Gateway supports stablecoins, digital assets pegged to traditional fiat currencies like the US dollar (USD) or Euro (EUR), offering stability for both merchants and customers.
 
 - **Seamless Integration:** Easily integrate the Stream Payment Gateway into your website, e-commerce platform, or mobile app using APIs, plugins, or SDKs. Streamlined integration ensures a smooth user experience during the checkout process.
 
@@ -22,15 +26,12 @@ The Stream Payment Gateway is a versatile and secure payment processing solution
 
 - **Customization:** Customize the payment gateway's appearance to align it with your brand identity. Add logos, choose color schemes, and apply styling for a consistent user experience.
 
-- **Multi-Currency Support:** In addition to cryptocurrencies, the gateway supports stablecoins, digital assets pegged to traditional fiat currencies like the US dollar (USD) or Euro (EUR), offering stability for both merchants and customers.
-
 - **Customer Support:** Reliable customer support channels are available to assist with inquiries, technical issues, and dispute resolution.
 
 - **Compliance:** The Stream Payment Gateway ensures compliance with local and international regulations, including Know Your Customer (KYC) and Anti-Money Laundering (AML) checks.
 
-[**Documentation**](https://github.com/stream-payments/stream-payment-gateway/docs)
 
-**Getting Started:**
+### Getting Started:
 
 1. Clone the repository: `git clone https://github.com/stream-payments/stream-payment-gateway.git`
 2. Follow the installation instructions in the documentation to set up and configure the Stream Payment Gateway.
@@ -38,6 +39,10 @@ The Stream Payment Gateway is a versatile and secure payment processing solution
 4. Start accepting digital currencies securely and efficiently with the Stream Payment Gateway.
 
 Experience the future of online payments and explore the possibilities of blockchain-based transactions with Stream Payment Gateway.
+
+---
+
+[**Documentation**](https://github.com/stream-payments/stream-payment-gateway/docs)
 
 ---
 
