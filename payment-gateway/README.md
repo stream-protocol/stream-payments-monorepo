@@ -40,10 +40,6 @@ The Stream Payment Gateway is a versatile and secure payment processing solution
 
 Experience the future of online payments and explore the possibilities of blockchain-based transactions with Stream Payment Gateway.
 
----
-
 [**Documentation**](https://github.com/stream-payments/stream-payment-gateway/docs)
-
----
 
 **License:** [MIT](https://opensource.org/licenses/MIT)
