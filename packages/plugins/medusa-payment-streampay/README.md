@@ -1,6 +1,6 @@
 # Medusa Payment StreamPay Plugin
 
-The Medusa Payment Stream**Pay™** Plugin is a powerful extension for the Medusa e-commerce platform, enabling businesses to seamlessly integrate StreamPay's Web3 payment capabilities into their Medusa-based online stores. With this plugin, you can offer your customers the option to make payments using popular cryptocurrencies and stablecoins securely.
+The Medusa Payment Stream**Pay™** Plugin is a powerful extension for the Medusa e-commerce platform, enabling businesses to seamlessly integrate Stream**Pay**'s Web3 payment capabilities into their Medusa-based online stores. With this plugin, you can offer your customers the option to make payments using popular cryptocurrencies and stablecoins securely.
 
 ## Table of Contents
 
