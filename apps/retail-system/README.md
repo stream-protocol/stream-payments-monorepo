@@ -1,6 +1,6 @@
-# StreamPay - Retail System
+# StreamPayments - Retail System
 
-**StreamPay - Advanced Retail Ecosystem with Mobile Wallet Integration, Merchant Wallet, and Powerful API Features**
+**StreamPayments - Advanced Retail Ecosystem with Mobile Wallet Integration, Merchant Wallet, and Powerful API Features**
 
 **Concept:**
 
