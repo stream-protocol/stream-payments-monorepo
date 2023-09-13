@@ -1,79 +1,163 @@
-# Medusa Payment StreamPay Plugin
+# StreamPay Medusa Plugin
 
-The Medusa Payment Stream**Pay™** Plugin is a powerful extension for the Medusa e-commerce platform, enabling businesses to seamlessly integrate Stream**Pay**'s Web3 payment capabilities into their Medusa-based online stores. With this plugin, you can offer your customers the option to make payments using popular cryptocurrencies and stablecoins securely.
+The StreamPay Medusa Plugin allows you to seamlessly integrate StreamPay's web3 payment processing capabilities into your Medusa-based e-commerce platform.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Customization](#customization)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
+- [StreamPay Medusa Plugin](#streampay-medusa-plugin)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+  - [Usage](#usage)
+  - [Folder Structure](#folder-structure)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
+  - [Documentation](#documentation)
+
+## Prerequisites
+
+- Install Node.js
+- Install git
+- Install Postgres
+- Install Solana web3.js
+
+## Requirements
+
+- Medusajs backend
+- StreamPayments Merchant Portal
+
+**Notice!** **Stream**Payments Merchant Portal is not yet developed. The Merchant Portal is based on Medusa Admin UI and requires developers. It is inspired by the Medusa Admin UI Solana Payment App (Shopify) available at [Solana Payments App](https://github.com/solana-labs/solana-payments-app).
 
 ## Installation
 
-To install the Medusa Payment Stream**Pay™** Plugin in your Medusa-based project, follow these steps:
+You can install the StreamPay Medusa plugin using npm or yarn:
 
-1. Install the plugin package using npm or yarn:
-
-   ```bash
-   npm install medusa-payment-streampay
-   # or
-   yarn add medusa-payment-streampay
-   ```
-
-2. Configure the plugin in your Medusa configuration file.
-
-3. Initialize the plugin in your Medusa project.
-
-## Usage
-
-Once you've installed and configured the plugin, you can use it to accept cryptocurrency and stablecoin payments in your Medusa-based e-commerce store. Customers will see Stream**Pay™** as a payment option during the checkout process.
-
-Here's how you can integrate and use the Medusa Payment Stream**Pay™** Plugin:
-
-```javascript
-import { MedusaPaymentStreamPayPlugin } from 'medusa-payment-streampay';
-
-// Initialize the plugin with your configuration
-const plugin = new MedusaPaymentStreamPayPlugin({
-  apiKey: 'YOUR_STREAMPAY_API_KEY',
-  // Add other configuration options as needed
-});
-
-// Use the plugin's functions or components as required
+```bash
+npm install streampay-medusa-plugin --save
+# or
+yarn add streampay-medusa-plugin
 ```
-
-For more detailed usage instructions and examples, please refer to our [Documentation](link-to-documentation).
 
 ## Configuration
 
-The Medusa Payment Stream**Pay™** Plugin can be configured to suit your specific requirements. You can set up supported cryptocurrencies, stablecoins, transaction fees, and other payment-related settings in your Medusa configuration.
+To use the StreamPay web3 payment plugin, you need to add it to your Medusa configuration file (usually `medusa-config.js` or `medusa-config.json`). Here is an example of how to configure and enable the plugin:
 
-For detailed configuration instructions, please visit our [Configuration Guide](link-to-configuration-guide).
+```json
+const plugins = [
+  // other plugins...
+  {
+    resolve: `medusa-plugin-streampay`,
+    options: {
+      // Plugin options...
+      enableUI: true, // Set to true to enable the admin UI for this plugin
+      apiKey: "YOUR_STREAMPAY_API_KEY", // Replace with your StreamPay API key
+      // Add other plugin-specific options here
+    },
+  },
+];
 
-## Customization
+module.exports = {
+  // Your Medusa configuration...
+  plugins,
+};
+```
 
-Customizing the appearance and behavior of the Medusa Payment StreamPay Plugin is straightforward. You can match the plugin's appearance with your brand identity by configuring colors, styles, and other settings.
+Replace `"YOUR_STREAMPAY_API_KEY"` with your actual StreamPay Medusa API key and configure any other plugin-specific options as needed.
 
-For customization guidelines, please refer to our [Customization Documentation](link-to-customization-docs).
+## Usage
 
-## Development
+Explain how to use your plugin, including any code examples or configurations that the user needs to apply.
 
-If you'd like to contribute to the Medusa Payment Stream**Pay™** Plugin or develop custom features, please follow the instructions in our [Contribution Guide](link-to-contribution-guide).
+```javascript
+// Example code demonstrating how to use the plugin
+const medusa = require("medusa");
+
+medusa.start().then(() => {
+  // Your Medusa instance is now using the StreamPay plugin
+});
+```
+
+## Folder Structure
+
+Here is the recommended folder structure when using this plugin:
+
+```
+medusajs-project-root/
+├── src/
+│   ├── controllers/
+│   │   ├── CartController.ts
+│   │   ├── ProductController.ts
+│   │   ├── ...
+│   ├── models/
+│   │   ├── Cart.ts
+│   │   ├── Product.ts
+│   │   ├── ...
+│   ├── routes/
+│   │   ├── cartRoutes.ts
+│   │   ├── productRoutes.ts
+│   │   ├── ...
+│   ├── services/
+│   │   ├── CartService.ts
+│   │   ├── ProductService.ts
+│   │   ├── ...
+│   ├── payment/
+│   │   ├── StreamUSDCPaymentService.ts
+│   │   ├── StreamSOLPaymentService.ts
+│   │   ├── StreamSTRMPaymentService.ts
+│   │   ├── StreamEURCPaymentService.ts
+│   │   ├── StreamPaymentCore.ts
+│   │   └── ...
+│   ├── repositories/
+│   │   ├── CartRepository.ts
+│   │   ├── ProductRepository.ts
+│   │   ├── ...
+│   ├── types/
+│   │   ├── MedusaTypes.ts
+│   │   ├── StreamPayTypes.ts
+├── tests/
+│   ├── unit/
+│   │   ├── StreamUSDCPaymentService.test.ts
+│   │   ├── StreamSOLPaymentService.test.ts
+│   │   ├── ...
+│   ├── integration/
+│   │   ├── apiRoutes.test.ts
+│   │   ├── ...
+│   ├── helpers/
+│   │   ├── testUtils.ts
+│   ├── setup.ts
+├── node_modules/
+├── tsconfig.json
+├── package.json
+├── package-lock.json
+├── README.md
+```
 
 ## Contributing
 
-We welcome contributions from the community. If you find a bug, have a feature request, or want to contribute to the development of the Medusa Payment Stream**Pay™** Plugin, please see our [Contributing Guidelines](link-to-contributing-guidelines).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
-The Medusa Payment Stream**Pay™** Plugin is open-source and available under the [MIT License](link-to-license).
+This plugin is open-source and available under the [MIT License](LICENSE).
 
-* For more information and detailed documentation, visit our [StreamPayments Developer Portal](link-to-developer-portal).
+## Author
 
-* For support and inquiries, please contact us at [contact@streamprotocol.org](mailto:support@streamprotocol.org).
+Stream Protocol / **Stream**Payments™
 
-**Notice!** This README provides an overview of the Medusa Payment Stream**Pay™** Plugin, its installation, usage, configuration, customization, development, and contribution guidelines.
+## Acknowledgments
+
+- Solana Web3.js
+- StreamPayments Merchant Portal (Creating a Based on Medusa Admin) Developers are welcome!
+- Stream Payment Gateway - Medusajs Web3 Payment Gateway
+- StreamPayments - The Solana Payment Layer
+- StreamPayjs - Reactjs Framework
+- StreamPay API SDK
+- etc.
+
+## Documentation
+
+[Project Documentation](https://)

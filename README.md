@@ -1,6 +1,8 @@
-# StreamPayments™ Platform Overview
+# StreamPayments™ Retail System Overview
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## StreamPayments™ Platform
 
 The **Stream**Payments™ Platform is a comprehensive financial technology ecosystem designed to empower businesses with a rich suite of financial tools and cutting-edge Solana blockchain-based payment processing solutions. This platform offers a versatile array of services and features engineered to elevate financial services, streamline payment processing, and enhance customer engagement.
 
