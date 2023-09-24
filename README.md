@@ -46,4 +46,4 @@ The **StreamPayments™ Platform** is more than a collection of services; it's a
 
 [**Documentation**](https://app.gitbook.com/invite/9eBaoUspGpGsG968Qbyp/aB9DR79hOZHVtMTWC4Ei)
 
-**License:** [MIT](https://opensource.org/licenses/MIT)
+**License:** [MIT](https://opensource.org/licenses/MIT)# merchant-portal
