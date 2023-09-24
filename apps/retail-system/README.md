@@ -4,7 +4,7 @@
 
 **Concept:**
 
-**Stream**Payments™ revolutionizing the retail landscape by offering an all-inclusive Retail Ecosystem designed to cater to traditional brick-and-mortar stores and e-commerce businesses. This comprehensive platform seamlessly merges a Retail System with NFT Ticketing, Solana Escrow Programs (smart contracts), and a wide array of advanced features to empower retailers in optimizing operations, elevating customer experiences, and harnessing the potential of blockchain technology. The Retail System introduces Mobile Wallet Integration, a dedicated Merchant Wallet, and an extensive set of API functionalities to provide retailers and merchants with cutting-edge tools and flexibility.
+**Stream**Payments™ revolutionizing the retail landscape by offering an all-inclusive Retail Ecosystem designed to cater to traditional brick-and-mortar stores and e-commerce businesses. This comprehensive platform seamlessly merges a Retail System with NFT Ticketing, Solana Escrow Programs (smart contracts), and a wide array of advanced features to empower retailers in optimizing operations, elevating customer experiences, and harnessing the potential of blockchain technology. The Retail System introduces Mobile Wallet Integration, a dedicated Merchant Wallet, and an extensive set of API functionalities to provide retailers and merchants with cutting-edge tools and flexibility. Merchant Portal Interface based on Medusa Admin UI.
 
 **Key Components and Advanced Features of StreamPay's Retail Ecosystem:**
 

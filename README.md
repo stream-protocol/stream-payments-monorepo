@@ -4,17 +4,17 @@
 
 ## StreamPayments™ Platform
 
-The **Stream**Payments™ Platform is a comprehensive financial technology ecosystem designed to empower businesses with a rich suite of financial tools and cutting-edge Solana blockchain-based payment processing solutions. This platform offers a versatile array of services and features engineered to elevate financial services, streamline payment processing, and enhance customer engagement.
+The **StreamPayments™ Platform** is a comprehensive financial technology ecosystem designed to empower businesses with a rich suite of financial tools and cutting-edge Solana blockchain-based payment processing solutions. This platform offers a versatile array of services and features engineered to elevate financial services, streamline payment processing, and enhance customer engagement.
 
 #### Key Components:
 
-1. **Governance DAO (StreamDAO):** The foundation of the ecosystem responsible for governance and decision-making to steer the strategic direction of Stream Protocol and **Stream**Payments™.
+1. **Governance DAO (StreamDAO):** The foundation of the ecosystem responsible for governance and decision-making to steer the strategic direction of Stream Protocol and **StreamPayments™**.
 
 2. **StreamPayments™ Web3 Payments Platform:** The core of the ecosystem, providing a robust Web3 payment solution for businesses. It includes features like the Disbursement Platform (DSP), enabling streamlined payment processing.
 
 3. **Cross-Border Payments:** Simplifies international transactions, foreign exchange conversions, and compliance considerations for businesses.
 
-4. **OnRamp Payments:** Offers a seamless onboarding experience for businesses to integrate **Stream**Payments™ and begin accepting digital payments.
+4. **OnRamp Payments:** Offers a seamless onboarding experience for businesses to integrate **StreamPayments™** and begin accepting digital payments.
 
 5. **StreamLink - Social Payments:** A cutting-edge platform designed to facilitate blockchain and Web3 transactions securely and efficiently, enhancing businesses' capabilities in the digital economy.
 
@@ -24,7 +24,7 @@ The **Stream**Payments™ Platform is a comprehensive financial technology ecosy
 
 8. **Asset Management:** Businesses can efficiently manage a wide range of digital assets within the ecosystem, ensuring flexibility and convenience in financial operations.
 
-9. **Partnership Programs:** Encourages collaborations and partnerships with **Stream**Payments™, promoting mutual growth and expanding the ecosystem through referral programs, co-marketing efforts, and joint ventures.
+9. **Partnership Programs:** Encourages collaborations and partnerships with **StreamPayments™**, promoting mutual growth and expanding the ecosystem through referral programs, co-marketing efforts, and joint ventures.
 
 10. **StreamConnect:** A Solana Payment Framework and Development Forum that fosters innovation and collaboration within the Solana ecosystem.
 
@@ -40,8 +40,7 @@ The **Stream**Payments™ Platform is a comprehensive financial technology ecosy
 
 16. **Marketplace:** Explore a diverse range of decentralized applications (dApps) within the dApps Marketplace, including Medusajs Plugins and other extensions, enriching business operations with innovative solutions.
 
-The **Stream**Payments™ Platform is more than a collection of services; it's a harmoniously interconnected ecosystem where each component plays a vital role in providing businesses with a holistic fintech and blockchain solution. Whether you seek streamlined payments, powerful customer engagement tools, or robust financial services, StreamPayments™ is your gateway to optimizing financial operations and exploring the possibilities of Web3 payments.
-
+The **StreamPayments™ Platform** is more than a collection of services; it's a harmoniously interconnected ecosystem where each component plays a vital role in providing businesses with a holistic fintech and blockchain solution. Whether you seek streamlined payments, powerful customer engagement tools, or robust financial services, StreamPayments™ is your gateway to optimizing financial operations and exploring the possibilities of Web3 payments.
 
 #### Project Documentation (early version)
 
